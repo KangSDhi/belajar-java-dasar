@@ -4,7 +4,7 @@ public class WhileLoop {
 
         while (counter <= 10){
             System.out.println("Perulangan " + counter);
-//            counter++;
+            counter++;
         }
     }
 }
